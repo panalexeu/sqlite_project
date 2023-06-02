@@ -5,4 +5,4 @@ Simple todo app built with python to deomnstrate basics of sqlite python's modul
 * Typer library for cli implementation;
 * Rich library for enhancing cli appereance.
 ## Screnshots 
-![](screenshots/projects_help.png)
+* ![](screenshots/projects_help.png)
