@@ -1,4 +1,5 @@
 # sqlite_project
+## Description
 Simple todo app built with python to deomnstrate basics of sqlite python's module.
 ## Features
 * Command line interface as the app's interface;
